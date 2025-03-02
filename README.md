@@ -1,7 +1,3 @@
-Here's your **README** with the AICTE internship credit:  
-
----
-
 # 🌱 Sustainable Supply Chain Performance Dashboard  
 
 An interactive **Power BI** dashboard designed to track and optimize supply chain sustainability. It visualizes key metrics like **carbon footprint, supplier compliance, waste reduction, and energy efficiency**, helping businesses make data-driven decisions for a greener future.  
